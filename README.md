@@ -20,3 +20,8 @@ Open `index.html` in a browser, or serve the directory with any static web serve
 ## Roadmap
 
 Next versions can add charts, monthly history, CSV export, recurring expenses, authentication, and cloud/database sync.
+
+
+## Live Demo
+
+🌐 https://student-expense-tracker-ashoka.onrender.com
