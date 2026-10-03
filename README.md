@@ -25,3 +25,13 @@ Next versions can add charts, monthly history, CSV export, recurring expenses, a
 ## Live Demo
 
 🌐 https://student-expense-tracker-ashoka.onrender.com
+
+
+## Version history
+- V1 — Core: daily expenses and budgets.
+- V2 — Analytics: monthly budgets, charts, six-month trends, reports, recurring markers and CSV export.
+- V3 — Portability: versioned JSON backup/restore for the complete local app state.
+
+**Current version: V3**
+
+V3 adds in-app **Backup** and **Restore** controls. Backups are portable JSON snapshots of this app's local browser state.
